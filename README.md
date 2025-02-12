@@ -5,6 +5,7 @@ The backend of the first project (Employee Vacation System), the frontEnd of thi
                             frist page  :  login page based on employee name only (username) , no password requered.
                             second page :  user main menu that  include many options.
                             third page  :  vacation requests page.
+                            
     2. System design: 
               The system is at two levels of coding :
                            lvl 1 : top lvl --> - Program main class where it contains all menues and options that the system offers.
@@ -15,6 +16,7 @@ The backend of the first project (Employee Vacation System), the frontEnd of thi
                                                                                                       Insert : handels add_CRUD_Operation.
                                                                                                       update : handels update_CRUD_Operation.
                                                                                                       select : handels LINQ Operations.
+                                                                                                      
 3. Requirements achivement: 
             The Project achives requirements as follow : (as a logic, the usage of this logic is in main class)
                         First Objective: (Database Design & Migration)                                   --> At bottom lvl Part1 (Entities including dbcontext).
@@ -23,6 +25,7 @@ The backend of the first project (Employee Vacation System), the frontEnd of thi
                         Third Objective: Apply CRUD operation in EF core on Vacation request full cycle  --> (1) At bottom lvl Part2 Services (Insert Services).
                                                                                                              (2) At bottom lvl Part2 Services (Select Services).
                         Fourth Objective:                                                                --> (1-5) At bottom lvl Part2 Services (Select Services).
+
 
 4.Other Notes :
     a) I had to add more data than the requered at Second Objective as you asked in the Fourth Objective.
