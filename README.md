@@ -1,11 +1,11 @@
 The backend of the first project (Employee Vacation System), the frontEnd of this app was built earliar and now this is the backend. 
+By: Ahmad Abdulsalam salameh shaqaqha.
  
  Note lists:-
     1. consol app design: 
-                            frist page  :  login page based on employee name only (username) , no password requered.
-                            second page :  user main menu that  include many options.
-                            third page  :  vacation requests page.
-                            
+                     frist page  :  login page based on employee name only (username) , no password requered.
+                     second page :  user main menu that  include many options.
+                     third page  :  vacation requests page.                    
     2. System design: 
               The system is at two levels of coding :
                            lvl 1 : top lvl --> - Program main class where it contains all menues and options that the system offers.
